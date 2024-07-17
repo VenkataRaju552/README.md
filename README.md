@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://youtube.com/@rajubhai0552?si=5WSmOCmAfCpiC4EI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@educationaltutorials7855" height="30" width="40" /></a>
+<a href="https://youtube.com/@rajubhai0552?si=5WSmOCmAfCpiC4EI" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@rajubhai0552?si=5WSmOCmAfCpiC4EI" height="30" width="40" /></a>
   <a href=" https://www.linkedin.com/in/venkata-raju-49920b1b5
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chilamkuri-venkataraju" height="30" width="40" /></a>
 </p>
